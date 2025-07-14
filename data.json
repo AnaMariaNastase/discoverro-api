@@ -1,0 +1,326 @@
+{
+  "data": [
+    {
+      "_id": "657c84c43c0adf8f37f7c5fb",
+      "name": "Visit Lalibela",
+      "location": "Amhara Region",
+      "duration": "2 week",
+      "pricePerAdult": 1500,
+      "description": [
+        {
+          "main": [
+            "The allure of Azure Bay extends beyond its urban charm. Venture into the surrounding landscapes where nature's artistry is on full display. Spend tranquil afternoons lounging on pristine beaches, where the sun kisses your skin and the ocean invites you to dip into its cool embrace. For the more adventurous, partake in exhilarating water sports or explore scenic hiking trails that offer panoramic views of the coastline. As part of our commitment to an authentic experience, we also offer interactive workshops and cultural events, from local craft sessions to traditional dance performances, ensuring you connect deeply with the spirit of Azure Bay.Our Enchanting Coastal Escape is more than just a tour; it's a journey of discovery, relaxation, and adventure. With comfortable accommodations, expert guidance, and a well-crafted itinerary, each day brings a new opportunity to fall in love with Azure Bay. Whether you're seeking a peaceful retreat or an exploration of new cultures, our 7-day guided tour is the perfect way to experience the magic of this extraordinary coastal haven. Join us, and let Azure Bay capture your heart."
+          ],
+          "included": [
+            "Quality hotel stays are usually part of the package. Depending on the tour's level of luxury, these could range from comfortable three-star hotels to luxurious five-star resorts. Accommodations are often selected for their location, amenities, and ability to reflect the local charm.",
+            "The package often includes daily breakfasts at the hotel. Additionally, some packages might offer select lunches and dinners, especially when they are integral to the cultural experience, such as a traditional local meal or a special welcome or farewell dinner."
+          ],
+          "notIncluded": [
+            "Professional guide services for all scheduled tours and visits, including entrance fees to museums, historical sites, and other attractions as per the itinerary, are usually covered.",
+            "The package generally includes specific activities mentioned in the itinerary, like boat trips, culinary classes, or local craft workshops. These are designed to provide an immersive experience of the destination."
+          ],
+          "expect": [
+            [
+              "The provision of a tour director or a local guide who stays with the group throughout the trip, offering guidance, insights about each location, and handling logistical details.",
+              " Inclusion of local taxes and service charges is a common practice, so there are no hidden costs."
+            ],
+            [
+              " Depending on the timing and destination, health and safety measures like insurance or health kits might be included, especially considering the global health scenario.",
+              "Some packages offer a degree of customization, allowing travelers to choose certain aspects of their trip, like room types, optional excursions, or additional nights."
+            ]
+          ],
+          "additionalInfo": [
+            "Our tour is committed to sustainability and eco-friendly practices. We collaborate with local businesses and service providers that adhere to environmental standards, ensuring that your travel has a positive impact on the destination. This includes staying at eco-friendly accommodations, participating in beach clean-ups, and encouraging interactions with local communities in a way that supports and respects their traditions and environment.",
+            "Guests on this tour will enjoy exclusive access to certain landmarks and experiences not readily available to the general public. This might include a private sunset viewing at a historical fort, a special wine-tasting session at a renowned local vineyard, or a meet-and-greet with a celebrated local chef. Additionally, we offer the flexibility to tailor certain days to suit personal interests, whether that's extending time at the beach, exploring more of the local art scene, or arranging a private guided meditation session at a serene location."
+          ],
+          "policy": [
+            "Understanding the uncertainties of travel, we offer a flexible booking and cancellation policy. Guests can cancel or reschedule their trip up to 30 days before the departure date without any penalty. For cancellations made within 30 days of departure, we provide a credit that can be used for any future tour within 18 months of the original travel date. This policy is designed to give our travelers peace of mind and flexibility, allowing them to make travel plans with confidence. We also recommend travel insurance for additional protection against unforeseen circumstances."
+          ]
+        }
+      ],
+      "rating": 3.5,
+      "totalRatings": 6,
+      "priceRange": "less5000",
+      "departureDates": [],
+      "image": [
+        "https://media.istockphoto.com/id/697529054/photo/the-church-of-saint-george-in-lalibela.jpg?s=612x612&w=0&k=20&c=j3ua9h08NmxB9tym1qyP4Y378OAn1famGva6dA9CZO8=",
+        "https://assets.vogue.com/photos/5ac2ae2a022a720bbd098ef1/master/w_2560%2Cc_limit/00-story-image-lalibela-ethiopia-is-the-next-machu-picchu.jpg",
+        "https://media.tacdn.com/media/attractions-splice-spp-674x446/06/6c/1f/11.jpg"
+      ],
+      "type": "HistoricalPlace",
+      "to_do_type": "Explore",
+      "createdAt": "2023-12-15T16:54:28.150Z",
+      "updatedAt": "2024-12-12T12:52:37.571Z",
+      "__v": 0,
+      "map": "https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d126100.69144179129!2d38.7674771!3d9.0046281!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2set!4v1703967049448!5m2!1sen!2set"
+    },
+    {
+      "_id": "657c85423c0adf8f37f7c5fd",
+      "name": "Visit Gondar",
+      "location": "Amhara Region",
+      "duration": "1 week",
+      "pricePerAdult": 2500,
+      "description": [
+        {
+          "main": [
+            "The allure of Azure Bay extends beyond its urban charm. Venture into the surrounding landscapes where nature's artistry is on full display. Spend tranquil afternoons lounging on pristine beaches, where the sun kisses your skin and the ocean invites you to dip into its cool embrace. For the more adventurous, partake in exhilarating water sports or explore scenic hiking trails that offer panoramic views of the coastline. As part of our commitment to an authentic experience, we also offer interactive workshops and cultural events, from local craft sessions to traditional dance performances, ensuring you connect deeply with the spirit of Azure Bay.Our Enchanting Coastal Escape is more than just a tour; it's a journey of discovery, relaxation, and adventure. With comfortable accommodations, expert guidance, and a well-crafted itinerary, each day brings a new opportunity to fall in love with Azure Bay. Whether you're seeking a peaceful retreat or an exploration of new cultures, our 7-day guided tour is the perfect way to experience the magic of this extraordinary coastal haven. Join us, and let Azure Bay capture your heart."
+          ],
+          "included": [
+            "Quality hotel stays are usually part of the package. Depending on the tour's level of luxury, these could range from comfortable three-star hotels to luxurious five-star resorts. Accommodations are often selected for their location, amenities, and ability to reflect the local charm.",
+            "The package often includes daily breakfasts at the hotel. Additionally, some packages might offer select lunches and dinners, especially when they are integral to the cultural experience, such as a traditional local meal or a special welcome or farewell dinner."
+          ],
+          "notIncluded": [
+            "Professional guide services for all scheduled tours and visits, including entrance fees to museums, historical sites, and other attractions as per the itinerary, are usually covered.",
+            "The package generally includes specific activities mentioned in the itinerary, like boat trips, culinary classes, or local craft workshops. These are designed to provide an immersive experience of the destination."
+          ],
+          "expect": [
+            [
+              "The provision of a tour director or a local guide who stays with the group throughout the trip, offering guidance, insights about each location, and handling logistical details.",
+              " Inclusion of local taxes and service charges is a common practice, so there are no hidden costs."
+            ],
+            [
+              " Depending on the timing and destination, health and safety measures like insurance or health kits might be included, especially considering the global health scenario.",
+              "Some packages offer a degree of customization, allowing travelers to choose certain aspects of their trip, like room types, optional excursions, or additional nights."
+            ]
+          ],
+          "additionalInfo": [
+            "Our tour is committed to sustainability and eco-friendly practices. We collaborate with local businesses and service providers that adhere to environmental standards, ensuring that your travel has a positive impact on the destination. This includes staying at eco-friendly accommodations, participating in beach clean-ups, and encouraging interactions with local communities in a way that supports and respects their traditions and environment.",
+            "Guests on this tour will enjoy exclusive access to certain landmarks and experiences not readily available to the general public. This might include a private sunset viewing at a historical fort, a special wine-tasting session at a renowned local vineyard, or a meet-and-greet with a celebrated local chef. Additionally, we offer the flexibility to tailor certain days to suit personal interests, whether that's extending time at the beach, exploring more of the local art scene, or arranging a private guided meditation session at a serene location."
+          ],
+          "policy": [
+            "Understanding the uncertainties of travel, we offer a flexible booking and cancellation policy. Guests can cancel or reschedule their trip up to 30 days before the departure date without any penalty. For cancellations made within 30 days of departure, we provide a credit that can be used for any future tour within 18 months of the original travel date. This policy is designed to give our travelers peace of mind and flexibility, allowing them to make travel plans with confidence. We also recommend travel insurance for additional protection against unforeseen circumstances."
+          ]
+        }
+      ],
+      "rating": 2.57142857142857,
+      "totalRatings": 7,
+      "priceRange": "less5000",
+      "departureDates": [],
+      "image": [
+        "https://media.istockphoto.com/id/497947897/photo/gondar-ethiopia-fasil-ghebbi-unesco-world-heritage-site.jpg?s=612x612&w=0&k=20&c=7XIiY40eUdgpy_UOs-J4iPze66gENKAnD014XP1KcI0=",
+        "https://thumbs.dreamstime.com/b/gondar-ethiopia-feb-fasil-ghebbi-remains-fortress-city-gondar-ethiopia-gondar-ethiopia-feb-fasil-ghebbi-royal-208485500.jpg",
+        "https://thumbs.dreamstime.com/b/street-gondar-city-ethiopia-march-previously-served-as-capital-both-ethiopian-empire-has-been-referred-to-as-39911587.jpg"
+      ],
+      "type": "HistoricalPlace",
+      "to_do_type": "Explore",
+      "createdAt": "2023-12-15T16:56:34.599Z",
+      "updatedAt": "2025-06-18T08:41:57.764Z",
+      "__v": 0,
+      "map": "https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d126100.69144179129!2d38.7674771!3d9.0046281!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2set!4v1703967049448!5m2!1sen!2set"
+    },
+    {
+      "_id": "657c85d83c0adf8f37f7c5ff",
+      "name": "Visit Addis Ababa",
+      "location": "Addis Ababa",
+      "duration": "3 days",
+      "pricePerAdult": 7500,
+      "description": [
+        {
+          "main": [
+            "The allure of Azure Bay extends beyond its urban charm. Venture into the surrounding landscapes where nature's artistry is on full display. Spend tranquil afternoons lounging on pristine beaches, where the sun kisses your skin and the ocean invites you to dip into its cool embrace. For the more adventurous, partake in exhilarating water sports or explore scenic hiking trails that offer panoramic views of the coastline. As part of our commitment to an authentic experience, we also offer interactive workshops and cultural events, from local craft sessions to traditional dance performances, ensuring you connect deeply with the spirit of Azure Bay.Our Enchanting Coastal Escape is more than just a tour; it's a journey of discovery, relaxation, and adventure. With comfortable accommodations, expert guidance, and a well-crafted itinerary, each day brings a new opportunity to fall in love with Azure Bay. Whether you're seeking a peaceful retreat or an exploration of new cultures, our 7-day guided tour is the perfect way to experience the magic of this extraordinary coastal haven. Join us, and let Azure Bay capture your heart."
+          ],
+          "included": [
+            "Quality hotel stays are usually part of the package. Depending on the tour's level of luxury, these could range from comfortable three-star hotels to luxurious five-star resorts. Accommodations are often selected for their location, amenities, and ability to reflect the local charm.",
+            "The package often includes daily breakfasts at the hotel. Additionally, some packages might offer select lunches and dinners, especially when they are integral to the cultural experience, such as a traditional local meal or a special welcome or farewell dinner."
+          ],
+          "notIncluded": [
+            "Professional guide services for all scheduled tours and visits, including entrance fees to museums, historical sites, and other attractions as per the itinerary, are usually covered.",
+            "The package generally includes specific activities mentioned in the itinerary, like boat trips, culinary classes, or local craft workshops. These are designed to provide an immersive experience of the destination."
+          ],
+          "expect": [
+            [
+              "The provision of a tour director or a local guide who stays with the group throughout the trip, offering guidance, insights about each location, and handling logistical details.",
+              " Inclusion of local taxes and service charges is a common practice, so there are no hidden costs."
+            ],
+            [
+              " Depending on the timing and destination, health and safety measures like insurance or health kits might be included, especially considering the global health scenario.",
+              "Some packages offer a degree of customization, allowing travelers to choose certain aspects of their trip, like room types, optional excursions, or additional nights."
+            ]
+          ],
+          "additionalInfo": [
+            "Our tour is committed to sustainability and eco-friendly practices. We collaborate with local businesses and service providers that adhere to environmental standards, ensuring that your travel has a positive impact on the destination. This includes staying at eco-friendly accommodations, participating in beach clean-ups, and encouraging interactions with local communities in a way that supports and respects their traditions and environment.",
+            "Guests on this tour will enjoy exclusive access to certain landmarks and experiences not readily available to the general public. This might include a private sunset viewing at a historical fort, a special wine-tasting session at a renowned local vineyard, or a meet-and-greet with a celebrated local chef. Additionally, we offer the flexibility to tailor certain days to suit personal interests, whether that's extending time at the beach, exploring more of the local art scene, or arranging a private guided meditation session at a serene location."
+          ],
+          "policy": [
+            "Understanding the uncertainties of travel, we offer a flexible booking and cancellation policy. Guests can cancel or reschedule their trip up to 30 days before the departure date without any penalty. For cancellations made within 30 days of departure, we provide a credit that can be used for any future tour within 18 months of the original travel date. This policy is designed to give our travelers peace of mind and flexibility, allowing them to make travel plans with confidence. We also recommend travel insurance for additional protection against unforeseen circumstances."
+          ]
+        }
+      ],
+      "rating": 2.58333333333333,
+      "totalRatings": 12,
+      "priceRange": "5000-10000",
+      "departureDates": [],
+      "image": [
+        "https://images.unsplash.com/photo-1624314138470-5a2f24623f10?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YWRkaXMlMjBhYmFiYSUyQyUyMGV0aGlvcGlhfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1571946080923-a81668948f52?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YWRkaXMlMjBhYmFiYSUyQyUyMGV0aGlvcGlhfGVufDB8fDB8fHww",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNlgo1Z7L2bWruSuIVChEQCklL6CDTMYLX-Bo9EXa3CA&s",
+        "https://media.istockphoto.com/id/492026833/photo/aerial-view-of-addis-ababa.jpg?s=612x612&w=0&k=20&c=AS-FLSvYOWMwiNkIeDcK-E1PvlEq_qa2BWVUDEr_nuk="
+      ],
+      "type": "City",
+      "to_do_type": "Visit",
+      "createdAt": "2023-12-15T16:59:04.173Z",
+      "updatedAt": "2025-04-13T16:27:24.180Z",
+      "__v": 0,
+      "map": "https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d126100.69144179129!2d38.7674771!3d9.0046281!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2set!4v1703967049448!5m2!1sen!2set"
+    },
+    {
+      "_id": "657c86463c0adf8f37f7c601",
+      "name": "Explore Bahir Dar",
+      "location": "Amhara Region",
+      "duration": "3 Weeks",
+      "pricePerAdult": 12500,
+      "description": [
+        {
+          "main": [
+            "The allure of Azure Bay extends beyond its urban charm. Venture into the surrounding landscapes where nature's artistry is on full display. Spend tranquil afternoons lounging on pristine beaches, where the sun kisses your skin and the ocean invites you to dip into its cool embrace. For the more adventurous, partake in exhilarating water sports or explore scenic hiking trails that offer panoramic views of the coastline. As part of our commitment to an authentic experience, we also offer interactive workshops and cultural events, from local craft sessions to traditional dance performances, ensuring you connect deeply with the spirit of Azure Bay.Our Enchanting Coastal Escape is more than just a tour; it's a journey of discovery, relaxation, and adventure. With comfortable accommodations, expert guidance, and a well-crafted itinerary, each day brings a new opportunity to fall in love with Azure Bay. Whether you're seeking a peaceful retreat or an exploration of new cultures, our 7-day guided tour is the perfect way to experience the magic of this extraordinary coastal haven. Join us, and let Azure Bay capture your heart."
+          ],
+          "included": [
+            "Quality hotel stays are usually part of the package. Depending on the tour's level of luxury, these could range from comfortable three-star hotels to luxurious five-star resorts. Accommodations are often selected for their location, amenities, and ability to reflect the local charm.",
+            "The package often includes daily breakfasts at the hotel. Additionally, some packages might offer select lunches and dinners, especially when they are integral to the cultural experience, such as a traditional local meal or a special welcome or farewell dinner."
+          ],
+          "notIncluded": [
+            "Professional guide services for all scheduled tours and visits, including entrance fees to museums, historical sites, and other attractions as per the itinerary, are usually covered.",
+            "The package generally includes specific activities mentioned in the itinerary, like boat trips, culinary classes, or local craft workshops. These are designed to provide an immersive experience of the destination."
+          ],
+          "expect": [
+            [
+              "The provision of a tour director or a local guide who stays with the group throughout the trip, offering guidance, insights about each location, and handling logistical details.",
+              " Inclusion of local taxes and service charges is a common practice, so there are no hidden costs."
+            ],
+            [
+              " Depending on the timing and destination, health and safety measures like insurance or health kits might be included, especially considering the global health scenario.",
+              "Some packages offer a degree of customization, allowing travelers to choose certain aspects of their trip, like room types, optional excursions, or additional nights."
+            ]
+          ],
+          "additionalInfo": [
+            "Our tour is committed to sustainability and eco-friendly practices. We collaborate with local businesses and service providers that adhere to environmental standards, ensuring that your travel has a positive impact on the destination. This includes staying at eco-friendly accommodations, participating in beach clean-ups, and encouraging interactions with local communities in a way that supports and respects their traditions and environment.",
+            "Guests on this tour will enjoy exclusive access to certain landmarks and experiences not readily available to the general public. This might include a private sunset viewing at a historical fort, a special wine-tasting session at a renowned local vineyard, or a meet-and-greet with a celebrated local chef. Additionally, we offer the flexibility to tailor certain days to suit personal interests, whether that's extending time at the beach, exploring more of the local art scene, or arranging a private guided meditation session at a serene location."
+          ],
+          "policy": [
+            "Understanding the uncertainties of travel, we offer a flexible booking and cancellation policy. Guests can cancel or reschedule their trip up to 30 days before the departure date without any penalty. For cancellations made within 30 days of departure, we provide a credit that can be used for any future tour within 18 months of the original travel date. This policy is designed to give our travelers peace of mind and flexibility, allowing them to make travel plans with confidence. We also recommend travel insurance for additional protection against unforeseen circumstances."
+          ]
+        }
+      ],
+      "rating": 2,
+      "totalRatings": 2,
+      "priceRange": "10000-15000",
+      "departureDates": [],
+      "image": [
+        "https://www.shutterstock.com/image-photo/panoramic-view-bahir-dar-ethiopia-260nw-1620872395.jpg",
+        "https://www.shutterstock.com/image-photo/partial-view-bahir-dar-ethiopia-260nw-1620870937.jpg"
+      ],
+      "type": "Group",
+      "to_do_type": "Visit",
+      "createdAt": "2023-12-15T17:00:54.079Z",
+      "updatedAt": "2025-06-18T08:51:10.067Z",
+      "__v": 0,
+      "map": "https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d126100.69144179129!2d38.7674771!3d9.0046281!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2set!4v1703967049448!5m2!1sen!2set"
+    },
+    {
+      "_id": "6591573bf0404abe702c93cd",
+      "name": "Visit Welayta Sodo",
+      "location": "Debub Region",
+      "duration": "3 Weeks",
+      "pricePerAdult": 12500,
+      "description": [
+        {
+          "main": [
+            "The allure of Azure Bay extends beyond its urban charm. Venture into the surrounding landscapes where nature's artistry is on full display. Spend tranquil afternoons lounging on pristine beaches, where the sun kisses your skin and the ocean invites you to dip into its cool embrace. For the more adventurous, partake in exhilarating water sports or explore scenic hiking trails that offer panoramic views of the coastline. As part of our commitment to an authentic experience, we also offer interactive workshops and cultural events, from local craft sessions to traditional dance performances, ensuring you connect deeply with the spirit of Azure Bay.Our Enchanting Coastal Escape is more than just a tour; it's a journey of discovery, relaxation, and adventure. With comfortable accommodations, expert guidance, and a well-crafted itinerary, each day brings a new opportunity to fall in love with Azure Bay. Whether you're seeking a peaceful retreat or an exploration of new cultures, our 7-day guided tour is the perfect way to experience the magic of this extraordinary coastal haven. Join us, and let Azure Bay capture your heart."
+          ],
+          "included": [
+            "Quality hotel stays are usually part of the package. Depending on the tour's level of luxury, these could range from comfortable three-star hotels to luxurious five-star resorts. Accommodations are often selected for their location, amenities, and ability to reflect the local charm.",
+            "The package often includes daily breakfasts at the hotel. Additionally, some packages might offer select lunches and dinners, especially when they are integral to the cultural experience, such as a traditional local meal or a special welcome or farewell dinner."
+          ],
+          "notIncluded": [
+            "Professional guide services for all scheduled tours and visits, including entrance fees to museums, historical sites, and other attractions as per the itinerary, are usually covered.",
+            "The package generally includes specific activities mentioned in the itinerary, like boat trips, culinary classes, or local craft workshops. These are designed to provide an immersive experience of the destination."
+          ],
+          "expect": [
+            [
+              "The provision of a tour director or a local guide who stays with the group throughout the trip, offering guidance, insights about each location, and handling logistical details.",
+              " Inclusion of local taxes and service charges is a common practice, so there are no hidden costs."
+            ],
+            [
+              " Depending on the timing and destination, health and safety measures like insurance or health kits might be included, especially considering the global health scenario.",
+              "Some packages offer a degree of customization, allowing travelers to choose certain aspects of their trip, like room types, optional excursions, or additional nights."
+            ]
+          ],
+          "additionalInfo": [
+            "Our tour is committed to sustainability and eco-friendly practices. We collaborate with local businesses and service providers that adhere to environmental standards, ensuring that your travel has a positive impact on the destination. This includes staying at eco-friendly accommodations, participating in beach clean-ups, and encouraging interactions with local communities in a way that supports and respects their traditions and environment.",
+            "Guests on this tour will enjoy exclusive access to certain landmarks and experiences not readily available to the general public. This might include a private sunset viewing at a historical fort, a special wine-tasting session at a renowned local vineyard, or a meet-and-greet with a celebrated local chef. Additionally, we offer the flexibility to tailor certain days to suit personal interests, whether that's extending time at the beach, exploring more of the local art scene, or arranging a private guided meditation session at a serene location."
+          ],
+          "policy": [
+            "Understanding the uncertainties of travel, we offer a flexible booking and cancellation policy. Guests can cancel or reschedule their trip up to 30 days before the departure date without any penalty. For cancellations made within 30 days of departure, we provide a credit that can be used for any future tour within 18 months of the original travel date. This policy is designed to give our travelers peace of mind and flexibility, allowing them to make travel plans with confidence. We also recommend travel insurance for additional protection against unforeseen circumstances."
+          ]
+        }
+      ],
+      "rating": 1.5,
+      "totalRatings": 2,
+      "priceRange": "10000-15000",
+      "departureDates": [],
+      "image": [
+        "https://upload.wikimedia.org/wikipedia/commons/b/b7/Sodo_2.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTce9IeHXwSAwpCddjnATzzI0Am4u0aWrurGmOFvgJDwqCDSL03pATnG_V8bl-ftJr_D1Q&usqp=CAU"
+      ],
+      "type": "City",
+      "to_do_type": "Visit",
+      "map": "https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d126100.69144179129!2d38.7674771!3d9.0046281!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2set!4v1703967049448!5m2!1sen!2set",
+      "createdAt": "2023-12-31T11:57:47.708Z",
+      "updatedAt": "2025-06-18T08:45:30.602Z",
+      "__v": 0
+    },
+    {
+      "_id": "659157f8f0404abe702c93d7",
+      "name": "Rift Valley",
+      "location": "Debub Region",
+      "duration": "3 Weeks",
+      "pricePerAdult": 12500,
+      "description": [
+        {
+          "main": [
+            "The allure of Azure Bay extends beyond its urban charm. Venture into the surrounding landscapes where nature's artistry is on full display. Spend tranquil afternoons lounging on pristine beaches, where the sun kisses your skin and the ocean invites you to dip into its cool embrace. For the more adventurous, partake in exhilarating water sports or explore scenic hiking trails that offer panoramic views of the coastline. As part of our commitment to an authentic experience, we also offer interactive workshops and cultural events, from local craft sessions to traditional dance performances, ensuring you connect deeply with the spirit of Azure Bay.Our Enchanting Coastal Escape is more than just a tour; it's a journey of discovery, relaxation, and adventure. With comfortable accommodations, expert guidance, and a well-crafted itinerary, each day brings a new opportunity to fall in love with Azure Bay. Whether you're seeking a peaceful retreat or an exploration of new cultures, our 7-day guided tour is the perfect way to experience the magic of this extraordinary coastal haven. Join us, and let Azure Bay capture your heart."
+          ],
+          "included": [
+            "Quality hotel stays are usually part of the package. Depending on the tour's level of luxury, these could range from comfortable three-star hotels to luxurious five-star resorts. Accommodations are often selected for their location, amenities, and ability to reflect the local charm.",
+            "The package often includes daily breakfasts at the hotel. Additionally, some packages might offer select lunches and dinners, especially when they are integral to the cultural experience, such as a traditional local meal or a special welcome or farewell dinner."
+          ],
+          "notIncluded": [
+            "Professional guide services for all scheduled tours and visits, including entrance fees to museums, historical sites, and other attractions as per the itinerary, are usually covered.",
+            "The package generally includes specific activities mentioned in the itinerary, like boat trips, culinary classes, or local craft workshops. These are designed to provide an immersive experience of the destination."
+          ],
+          "expect": [
+            [
+              "The provision of a tour director or a local guide who stays with the group throughout the trip, offering guidance, insights about each location, and handling logistical details.",
+              " Inclusion of local taxes and service charges is a common practice, so there are no hidden costs."
+            ],
+            [
+              " Depending on the timing and destination, health and safety measures like insurance or health kits might be included, especially considering the global health scenario.",
+              "Some packages offer a degree of customization, allowing travelers to choose certain aspects of their trip, like room types, optional excursions, or additional nights."
+            ]
+          ],
+          "additionalInfo": [
+            "Our tour is committed to sustainability and eco-friendly practices. We collaborate with local businesses and service providers that adhere to environmental standards, ensuring that your travel has a positive impact on the destination. This includes staying at eco-friendly accommodations, participating in beach clean-ups, and encouraging interactions with local communities in a way that supports and respects their traditions and environment.",
+            "Guests on this tour will enjoy exclusive access to certain landmarks and experiences not readily available to the general public. This might include a private sunset viewing at a historical fort, a special wine-tasting session at a renowned local vineyard, or a meet-and-greet with a celebrated local chef. Additionally, we offer the flexibility to tailor certain days to suit personal interests, whether that's extending time at the beach, exploring more of the local art scene, or arranging a private guided meditation session at a serene location."
+          ],
+          "policy": [
+            "Understanding the uncertainties of travel, we offer a flexible booking and cancellation policy. Guests can cancel or reschedule their trip up to 30 days before the departure date without any penalty. For cancellations made within 30 days of departure, we provide a credit that can be used for any future tour within 18 months of the original travel date. This policy is designed to give our travelers peace of mind and flexibility, allowing them to make travel plans with confidence. We also recommend travel insurance for additional protection against unforeseen circumstances."
+          ]
+        }
+      ],
+      "rating": 3,
+      "totalRatings": 3,
+      "priceRange": "10000-15000",
+      "departureDates": [],
+      "image": [
+        "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2013/4/18/1366304338690/Simien-Mountains-Ethiopia-005.jpg?width=700&quality=85&auto=format&fit=max&s=1cea0be95f23ff0f0f4edca4a632be00",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7xGBMuAw2GtIcQbS53YmxV-sNfRjzvDenFBnt0s_PjHMH9n-yLO3m5lJ0bH09Y8cXAd0&usqp=CAU"
+      ],
+      "type": "Adventure",
+      "to_do_type": "hiking",
+      "map": "https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d126100.69144179129!2d38.7674771!3d9.0046281!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2set!4v1703967049448!5m2!1sen!2set",
+      "createdAt": "2023-12-31T12:00:56.641Z",
+      "updatedAt": "2024-01-17T17:34:07.634Z",
+      "__v": 0
+    }
+  ]
+}
