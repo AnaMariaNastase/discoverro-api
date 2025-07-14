@@ -18,16 +18,16 @@ app.get('/', (req, res) => {
   res.json({ message: 'Welcome to the Travel JSON API' });
 });
 
-app.get('/destinations', (req, res) => {
+app.get('/packages', (req, res) => {
   res.json(jsonData.data);
 });
 
-app.get('/destination/:id', (req, res) => {
-  const destination = jsonData.data.find(item => item._id === req.params.id);
+app.get('/package/:id', (req, res) => {
+  const package = jsonData.data.find(item => item._id === req.params.id);
   if (!destination) {
-    return res.status(404).json({ error: 'Destination not found' });
+    return res.status(404).json({ error: 'Package not found' });
   }
-  res.json(destination);
+  res.json(package);
 });
 
 app.listen(PORT, () => {
