@@ -1,12 +1,19 @@
 import express from 'express';
 import fs from 'fs';
+import path from 'path';
+import { fileURLToPath } from 'url';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 const app = express();
 const PORT = process.env.PORT || 3000;
 
-const jsonData = JSON.parse(fs.readFileSync('./data.json', 'utf-8'));
+// ✅ Corect: cale absolută către fișierul JSON
+const jsonPath = path.join(__dirname, 'data.json');
+const jsonData = JSON.parse(fs.readFileSync(jsonPath, 'utf-8'));
 
-// Basic routes
+// ✅ Rute API
 app.get('/', (req, res) => {
   res.json({ message: 'Welcome to the Travel JSON API' });
 });
