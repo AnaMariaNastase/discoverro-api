@@ -23,11 +23,11 @@ app.get('/packages', (req, res) => {
 });
 
 app.get('/package/:id', (req, res) => {
-  const package = jsonData.data.find(item => item._id === req.params.id);
-  if (!destination) {
+  const pkg = jsonData.data.find(item => item._id === req.params.id);
+  if (!pkg) {
     return res.status(404).json({ error: 'Package not found' });
   }
-  res.json(package);
+  res.json(pkg);
 });
 
 app.listen(PORT, () => {
