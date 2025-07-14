@@ -2,14 +2,18 @@
   "data": [
     {
       "_id": "657c84c43c0adf8f37f7c5fb",
-      "name": "Visit Lalibela",
-      "location": "Amhara Region",
-      "duration": "2 week",
-      "pricePerAdult": 1500,
+      "name": "Visit Peleș Castle",
+      "location": "Sinaia",
+      "duration": "2 weeks",
+      "pricePerAdult": 150,
       "description": [
         {
           "main": [
-            "The allure of Azure Bay extends beyond its urban charm. Venture into the surrounding landscapes where nature's artistry is on full display. Spend tranquil afternoons lounging on pristine beaches, where the sun kisses your skin and the ocean invites you to dip into its cool embrace. For the more adventurous, partake in exhilarating water sports or explore scenic hiking trails that offer panoramic views of the coastline. As part of our commitment to an authentic experience, we also offer interactive workshops and cultural events, from local craft sessions to traditional dance performances, ensuring you connect deeply with the spirit of Azure Bay.Our Enchanting Coastal Escape is more than just a tour; it's a journey of discovery, relaxation, and adventure. With comfortable accommodations, expert guidance, and a well-crafted itinerary, each day brings a new opportunity to fall in love with Azure Bay. Whether you're seeking a peaceful retreat or an exploration of new cultures, our 7-day guided tour is the perfect way to experience the magic of this extraordinary coastal haven. Join us, and let Azure Bay capture your heart."
+            "The allure of Peleș Castle extends far beyond its architectural grandeur. Nestled in the heart of the Carpathian Mountains, this fairytale fortress invites you to explore a realm where history, nature, and culture intertwine. Stroll through the meticulously designed gardens, where each pathway leads to breathtaking views of the surrounding forested peaks. Inside the castle, marvel at opulent halls adorned with intricate wood carvings, stained glass, and centuries-old art, each room echoing the legacy of Romanian royalty.
+
+For those eager to connect more deeply with the region's charm, we offer immersive cultural experiences, from guided storytelling tours that unveil the castle’s secrets to traditional craft workshops inspired by local heritage. Adventurous souls can explore nearby mountain trails or take part in seasonal festivities held in the scenic town of Sinaia.
+
+Our Royal Escape to Peleș Castle is more than a visit—it's an unforgettable journey through elegance, legend, and natural beauty. With comfortable accommodations in nearby villas, expert local guides, and a thoughtfully curated 3-day itinerary, every moment promises enchantment. Whether you're drawn by architectural wonder, historical intrigue, or serene mountain air, let Peleș Castle awaken your imagination."
           ],
           "included": [
             "Quality hotel stays are usually part of the package. Depending on the tour's level of luxury, these could range from comfortable three-star hotels to luxurious five-star resorts. Accommodations are often selected for their location, amenities, and ability to reflect the local charm.",
@@ -17,7 +21,7 @@
           ],
           "notIncluded": [
             "Professional guide services for all scheduled tours and visits, including entrance fees to museums, historical sites, and other attractions as per the itinerary, are usually covered.",
-            "The package generally includes specific activities mentioned in the itinerary, like boat trips, culinary classes, or local craft workshops. These are designed to provide an immersive experience of the destination."
+            "The package generally includes carefully curated activities outlined in the itinerary, such as guided castle tours, traditional Romanian craft workshops, and cultural experiences in the town of Sinaia. These are designed to offer an immersive journey into the history, artistry, and charm of the Peleș Castle region."
           ],
           "expect": [
             [
@@ -25,13 +29,13 @@
               " Inclusion of local taxes and service charges is a common practice, so there are no hidden costs."
             ],
             [
-              " Depending on the timing and destination, health and safety measures like insurance or health kits might be included, especially considering the global health scenario.",
+              " Depending on the timing and destination, health and safety measures like insurance or health kits might be included, especially considering the weather state.",
               "Some packages offer a degree of customization, allowing travelers to choose certain aspects of their trip, like room types, optional excursions, or additional nights."
             ]
           ],
           "additionalInfo": [
-            "Our tour is committed to sustainability and eco-friendly practices. We collaborate with local businesses and service providers that adhere to environmental standards, ensuring that your travel has a positive impact on the destination. This includes staying at eco-friendly accommodations, participating in beach clean-ups, and encouraging interactions with local communities in a way that supports and respects their traditions and environment.",
-            "Guests on this tour will enjoy exclusive access to certain landmarks and experiences not readily available to the general public. This might include a private sunset viewing at a historical fort, a special wine-tasting session at a renowned local vineyard, or a meet-and-greet with a celebrated local chef. Additionally, we offer the flexibility to tailor certain days to suit personal interests, whether that's extending time at the beach, exploring more of the local art scene, or arranging a private guided meditation session at a serene location."
+            "Our tour is committed to sustainability and eco-friendly practices. We collaborate with local businesses and service providers that adhere to environmental standards, ensuring that your travel has a positive impact on the destination. This includes staying at eco-friendly accommodations, participating in room clean-ups, and encouraging interactions with local communities in a way that supports and respects their traditions and environment.",
+            "Guests on this tour will enjoy exclusive access to certain landmarks and experiences not readily available to the general public. This might include a private sunset viewing at a historical fort, a special wine-tasting session at a renowned local vineyard, or a meet-and-greet with a celebrated local chef. Additionally, we offer the flexibility to tailor certain days to suit personal interests, whether that's extending time at the local markets, exploring more of the local art scene, or arranging a private guided meditation session at a serene location."
           ],
           "policy": [
             "Understanding the uncertainties of travel, we offer a flexible booking and cancellation policy. Guests can cancel or reschedule their trip up to 30 days before the departure date without any penalty. For cancellations made within 30 days of departure, we provide a credit that can be used for any future tour within 18 months of the original travel date. This policy is designed to give our travelers peace of mind and flexibility, allowing them to make travel plans with confidence. We also recommend travel insurance for additional protection against unforeseen circumstances."
@@ -40,19 +44,19 @@
       ],
       "rating": 3.5,
       "totalRatings": 6,
-      "priceRange": "less5000",
+      "priceRange": "less500",
       "departureDates": [],
       "image": [
-        "https://media.istockphoto.com/id/697529054/photo/the-church-of-saint-george-in-lalibela.jpg?s=612x612&w=0&k=20&c=j3ua9h08NmxB9tym1qyP4Y378OAn1famGva6dA9CZO8=",
-        "https://assets.vogue.com/photos/5ac2ae2a022a720bbd098ef1/master/w_2560%2Cc_limit/00-story-image-lalibela-ethiopia-is-the-next-machu-picchu.jpg",
-        "https://media.tacdn.com/media/attractions-splice-spp-674x446/06/6c/1f/11.jpg"
+        "https://mediaim.expedia.com/localexpert/1131371/efe69b67-57a8-4320-b78f-d53fcfe7d2c5.jpg",
+        "https://www.booktoursromania.com/wp-content/uploads/Peles-Castle-Couple-1.jpg",
+        "https://nomadicniko.com/wp-content/uploads/2012/06/8b440-dsc_3913.jpg"
       ],
       "type": "HistoricalPlace",
       "to_do_type": "Explore",
       "createdAt": "2023-12-15T16:54:28.150Z",
       "updatedAt": "2024-12-12T12:52:37.571Z",
       "__v": 0,
-      "map": "https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d126100.69144179129!2d38.7674771!3d9.0046281!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2set!4v1703967049448!5m2!1sen!2set"
+      "map": "https://www.victorstravels.com/wp-content/uploads/2018/04/peles-castle-map-807x721.jpg"
     },
     {
       "_id": "657c85423c0adf8f37f7c5fd",
